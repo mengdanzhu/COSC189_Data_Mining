@@ -13,7 +13,7 @@ The data was mainly scraped from [Steam Community](https://steamcommunity.com/ap
 * Conducted text normalization such as adding stop words, porter stemmer and removing punctuations and digits using regular expressions
 * Tokenized and vectorized those words to sparse matrix
 
-## Method
+## Methods
 ### Sentiment Classification(1-gram, 2-gram and 3-gram language models)
 * Logistic Regression
 * Random Forest 
