@@ -14,5 +14,18 @@ The data was mainly scraped from [Steam Community](https://steamcommunity.com/ap
 * Tokenized and vectorized those words to sparse matrix
 
 ## Method
-* 
+### Sentiment Classification(1-gram, 2-gram and 3-gram language models)
+* Logistic Regression
+* Random Forest 
+* Support Vector Machine(SVM)
+* Naive Bayes
+
+### Predicting Game Scores(Metacritic Scores)
+* Linear Model
+* Support Vector Regression(SVR)
+* Random Forest Regression
+
+### Topic Modelling
+* Latent Dirichlet Allocation(LDA)
+
 
