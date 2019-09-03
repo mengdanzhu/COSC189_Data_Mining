@@ -1,7 +1,8 @@
 # COSC189:Data Mining
 
-The final project of COSC189: Data Mining
+This is the final project of COSC189 - Text Analysis on Game Reviews
 
 Author: Mengdan Zhu, Weiyi Wu, Boran Lu, Huaibin Ge
 
-## Text Analysis on Game Reviews
+## Data
+* Data Scraping
