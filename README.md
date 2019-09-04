@@ -28,4 +28,4 @@ The data was mainly scraped from [Steam Community](https://steamcommunity.com/ap
 ### Topic Modelling
 * Latent Dirichlet Allocation(LDA)
 
-More info in the [report](https://drive.google.com/open?id=1vVb-njSfAms_zFjrohLvgurIkpIxZhch)
+More info in the [report](https://github.com/mengdanzhu/COSC189_Data_Mining/blob/master/Final%20Report.pdf)
